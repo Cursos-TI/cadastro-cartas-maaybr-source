@@ -1,4 +1,4 @@
-/* super_trunfo_final.c
+/* CartasSuperTrunfo.c
 
 #include <stdio.h>
 #include <string.h>
